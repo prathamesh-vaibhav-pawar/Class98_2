@@ -1,0 +1,23 @@
+.Container1{
+    height: 100%;
+    width: 600px;
+    text-align: center;
+    margin-left: 1000px;
+}
+body{
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+img{
+    width: 80px;margin-left: -15px;
+}
+.sp{
+    color: rgb(237, 91, 91);
+}
+.Container2{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+}
+.h2{
+    color: white;
+}

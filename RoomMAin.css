@@ -1,0 +1,19 @@
+body{
+	text-align: center;
+	background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+.Container2{
+	background-color: gray
+}
+img{
+    width: 80px;margin-left: -15px;
+}
+.H3{
+	color: white;
+}
+.sp{
+    color: rgb(237, 91, 91);
+}
+.h2{
+	color: white;
+}
